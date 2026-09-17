@@ -1,16 +1,33 @@
-## Hi there 👋
+## quem sou eu 
+- Estudante de analise e desenvolvimento de sistema
+- busco atuar como Estagiario na area de Analista de sistema.
+- Atualmente aprofundando meus conhecimentos em java script, c++ e linguagem c.
+  
+  ## Tecnologias e Ferramentas
 
-<!--
-**gabrielblacktime/gabrielblacktime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat-square)
+  ![CSS Badge](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff&style=flat-square)
+  ![C Badge](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=flat-square)
+  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square)
+  ![Git Badge](https://img.shields.io/badge/Git-F03C2E?logo=git&logoColor=fff&style=flat-square)
+  ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=fff&style=flat-square)
+  ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
 
-Here are some ideas to get you started:
+  ## Meu roadmap  ( Proximos 6 meses)
+    - [ ] Mapear minha correira em um canvas
+    - [ ] criar um README de perfil no gitHub
+    - [ ] subir 2 projetos completos no github (com documentação)
+    - [ ] melhorar meu nivel de inglês
+    - [ ] estudar algoritimos
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Projetos em Destaque 
+ |Projeto| Descrição| principal tecnologia|
+ | ---  | --- | --- |
+| [Nome do Projeto](link) | Breve descrição | LINGUAGEM/FRAMEWORK |
+| [CRUD Básico](https://github.com/marceloepaoli/exemplo3-turmaB) | CRUD com 2 entidades e validação de dados | ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat) ![H2 Database Badge](https://img.shields.io/badge/H2%20Database-09476B?logo=h2database&logoColor=fff&style=flat) |
+
+## Como Falar comigo
+   
+
+  
