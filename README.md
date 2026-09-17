@@ -29,5 +29,7 @@
 
 ## Como Falar comigo
    
+   -[linkedin] (www.linkedin.com/in/gabriel-caetano-4652ab14b)
+   (gabrielcaetanor120@gmail.com)
 
   
