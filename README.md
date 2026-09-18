@@ -14,10 +14,10 @@
   ![Markdown Badge](https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=fff&style=flat-square)
 
   ## Meu roadmap  ( Proximos 6 meses)
-    - [ ] Mapear minha correira em um canvas
+    - [x] Mapear minha correira em um canvas
     - [ ] criar um README de perfil no gitHub
-    - [ ] subir 2 projetos completos no github (com documentação)
-    - [ ] melhorar meu nivel de inglês
+    - [x] subir 2 projetos completos no github (com documentação)
+    - [x] melhorar meu nivel de inglês
     - [ ] estudar algoritimos
   
 
@@ -28,8 +28,10 @@
 | [CRUD Básico](https://github.com/marceloepaoli/exemplo3-turmaB) | CRUD com 2 entidades e validação de dados | ![Spring Boot Badge](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff&style=flat) ![H2 Database Badge](https://img.shields.io/badge/H2%20Database-09476B?logo=h2database&logoColor=fff&style=flat) |
 
 ## Como Falar comigo
+|Linkedin| E-mail|
+| --- | --- |
+| [linkedin](www.linkedin.com/in/gabriel-caetano-4652ab14b) | gabrielcaetanor120@gmail.com |
    
-   -[linkedin] (www.linkedin.com/in/gabriel-caetano-4652ab14b)
-   (gabrielcaetanor120@gmail.com)
+
 
   
